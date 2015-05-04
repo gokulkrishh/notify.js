@@ -2,7 +2,7 @@
 
 Very simple notification plugin without any dependency (Pure Javascript).
 
-![Example](https://github.com/gokulkrishh/notify/raw/master/images/demo.png "Example")
+![Example](https://github.com/gokulkrishh/notify/raw/master/src/images/demo.png "Example")
 
 ### Size: 1.5KB, after gzip will be less than 1KB
 
