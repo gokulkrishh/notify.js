@@ -39,8 +39,8 @@
   //Hide notification as per time given
   function hide($container, $ele, timeOut) {
     setTimeout(function () {
-      $container.style.display = 'none';
-      remove($container); //remove appended div
+      $ele.style.display = 'none';
+      remove($ele); //remove appended div
     }, timeOut);
   }
 
