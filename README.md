@@ -6,7 +6,7 @@ Very simple notification plugin written using vanilla javascript.
 
 ### Size: 1.6KB, after gzip 322 bytes
 
-### Demo: [link](https://gokulkrishh.github.io/demo/notify/index.html)
+### [Demo](https://gokulkrishh.github.io/demo/notify/index.html)
 
 ## USAGE
 
@@ -16,9 +16,7 @@ Very simple notification plugin written using vanilla javascript.
   notify.show('your message', 'status', time); //time in milliseconds, status success, error
 
   //Example: success message
-
-  //time is optional, default is 3 seconds
-  notify.show('Hello World', 'success'); 
+  notify.show('Hello World', 'success'); //time is optional, default is 3 seconds
 
   //Example: error message
   notify.show('Hello World', 'error', 3000);
