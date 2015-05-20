@@ -1,3 +1,8 @@
+
+// Notify.js
+// (c) 2015 Gokulakrishnan Kalaikovan
+// Notify.js is freely distributable under the MIT license.
+
 (function (exports) {
   
   'use strict';
@@ -51,6 +56,6 @@
     } 
   }
 
-  exports.notify = notify; //Make this method availble in global
+  exports.notify = notify; //Make this method available in global
   
 })(typeof window === 'undefined' ? module.exports : window);
